@@ -32,7 +32,7 @@
 
 ```bash
 git clone https://github.com/abolyoo/laravel-ApiBeckend-project.git
-cd claim-service
+cd duelapi
 composer install
 cp .env.example .env
 php artisan key:generate
