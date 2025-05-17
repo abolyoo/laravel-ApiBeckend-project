@@ -31,7 +31,7 @@
 ## 🚀 راه‌اندازی سریع
 
 ```bash
-git clone https://github.com/your-org/claim-service.git
+git clone https://github.com/abolyoo/laravel-ApiBeckend-project.git
 cd claim-service
 composer install
 cp .env.example .env
